@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bbf9fa4-4660-4e5f-a736-a70b807782d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/src/evenodd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/src/name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/src/rupeestousd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/src/simpleinterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Switch/src/nestedswitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-idea-program/first-idea-program.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2R3LGeZ2MXZGpRidoSPn5tpjT4L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Sunny/Programming/java/first-idea-program",
+    "onboarding.tips.debug.path": "D:/Sunny/Programming/java/First program/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bbf9fa4-4660-4e5f-a736-a70b807782d5" name="Changes" comment="" />
+      <created>1686473725865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686473725865</updated>
+    </task>
+    <servers />
+  </component>
+</project>
